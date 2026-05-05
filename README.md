@@ -1,4 +1,3 @@
-![totoro](https://github.com/user-attachments/assets/e2ef0920-7ba0-4c4b-9188-c7fc69de18ff)<h1>
   Hello, I'm Vasiliki!
   <img 
     src="https://github.com/user-attachments/assets/fec5662c-2403-486c-8a0c-4097ecea07fd" 
