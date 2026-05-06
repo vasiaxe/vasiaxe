@@ -19,4 +19,12 @@ I am particularly interested in NLP, Computer Vision, and building full-stack sy
 
 I am working towards developing stronger expertise in applied machine learning and system design, with an interest in research-driven and real-world applications.
 
+The projects I'm working on now are:
+
+- **Multimodal Spoiler Detector**  
+  Developing a spoiler classification model for live-action series and movies using both image and text inputs. The project uses CLIP embeddings for visual/text representation and Logistic Regression as a baseline classifier.
+
+- **Human vs Machine Generated Text Detector**  
+  Building a Transformer-based text classification model using ModernBERT to distinguish between human-written and machine-generated text.
+
 I am open to collaborations, internships, and research opportunities where I can contribute and continue developing technically!
