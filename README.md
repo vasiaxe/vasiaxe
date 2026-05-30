@@ -17,8 +17,8 @@ I am currently pursuing a Master's degree in IT & Cognition at the University of
 
 The projects I'm working on now are:
 
-- **Multimodal Spoiler Detector**  
-  Developing a spoiler classification model for live-action series and movies using both image and text inputs. The project uses CLIP embeddings for visual/text representation and Logistic Regression as a baseline classifier.
+- **Multimodal Spoiler Detector**
+  Developing a spoiler classification model for live-action series and movies using both image and text inputs derived from a custom built data set. The project uses CLIP embeddings for visual/text representation and Logistic Regression as a baseline classifier.
 
 and
 
