@@ -13,7 +13,7 @@ I am currently pursuing a Master's degree in IT & Cognition at the University of
 
 ---
 
-## 🔬 Current Direction
+## 🔬 What I'm currently doing
 
 The projects I'm working on now are:
 
@@ -25,4 +25,4 @@ and
 - **Human vs Machine Generated Text Detector**  
   Building a Transformer-based text classification model using DeBERTa-v3 and stylometric features to distinguish between human-written and machine-generated text.
 
-I am open to collaborations, internships, and research opportunities where I can contribute and continue developing technically!
+I am open to collaborations, internships, and research opportunities where I can contribute and continue developing technically! 
