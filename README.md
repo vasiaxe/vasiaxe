@@ -9,7 +9,7 @@
 
 
 
-I am currently pursuing a Master's degree in IT & Cognition at the University of Copenhagen. I am particularly interested in NLP, Computer Vision, and building full-stack systems that integrate machine learning into real-world applications.
+I am currently pursuing a Master's degree in IT & Cognition at the University of Copenhagen. I am particularly interested in NLP, Computer Vision, and building full-stack systems that integrate machine learning into real-world applications. I also work with web development stuff occasionally!
 
 ---
 
